@@ -38,4 +38,4 @@ Used 30 neurons, the neurons affecting each other less than when there was less 
 As we do more iterations 10 ,50 ,100 we can see that the winner neuron does move all neuron line to the random data point we chose 
 to each iteration ( the neurons are all over the place.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+!["rrr"](https://github.com/elihaimov1992/Introduction-to-NN/blob/master/EX2/1.JPG?raw=true "Title")
